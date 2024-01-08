@@ -15,7 +15,7 @@
 }
 
 body {
-  background-image: url(./img/9.png);
+  background-image: url(./img/11.png);
   user-select: none;
   perspective: 1000px;
   margin: 0;
@@ -174,7 +174,7 @@ body {
   color: #000;
 }
 .face.back {
-  background-image: url(https://img.freepik.com/free-vector/sparkles-bokeh-background-with-text-space_1017-31522.jpg);
+  background-image: url(./img/Black\ and\ Gold\ Graffiti\ Business\ New\ Year\ Card.png);
   color: #000;
   overflow: hidden;
   background-size: cover;
@@ -197,12 +197,12 @@ body {
   height: 666px;
 }
 
-.btn {
+.btnn {
   font: normal 1.25em var(--font-copy);
   padding: 3% 5%;
   border-radius: 30px;
-  background: transparent;
-  color: black;
+  background: #e5c081;
+  /* color: black; */
   border: none;
   position: absolute;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
@@ -310,6 +310,5 @@ button.invert:hover {
 .information p {
   color: #f6af2a;
   font-size: 35px;
-  text-transform: uppercase;
   font-weight: bold;
 }

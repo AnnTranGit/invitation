@@ -1,4 +1,4 @@
-const button = document.querySelector(".btn");
+const button = document.querySelector(".btnn");
 const envelope = document.querySelector(".envelope");
 let flipped = true;
 let pullOutTimeline;
@@ -66,7 +66,7 @@ function pullOut() {
         "moveDown"
       )
       .to(
-        ".btn",
+        ".btnn",
         1,
         {
           y: "180px",
